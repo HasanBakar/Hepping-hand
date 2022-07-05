@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
+}
+
+.top-background-image {
+    background-image: url(images/Rohingya.jpg);
+    /* width: 1423px; */
+    height: 645px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1,
+p {
+    text-align: -webkit-center;
+}
+
+.text-format {
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 151px;
+    width: 100%;
+    margin: 194px 326px;
+    padding: 65px 115px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    border: 1px solid gray;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 17px;
+    color: whitesmoke;
+    padding: 5px 21px;
+}
