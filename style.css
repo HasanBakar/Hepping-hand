@@ -22,7 +22,7 @@ p {
 }
 
 .text-format {
-    color: white;
+    color: hwb(234 0% 0%);
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -41,4 +41,10 @@ p {
     border-radius: 17px;
     color: whitesmoke;
     padding: 5px 21px;
+}
+
+.section-two {
+    width: 737px;
+    height: 0px;
+    margin: 93px 228px
 }
