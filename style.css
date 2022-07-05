@@ -46,11 +46,11 @@ p {
 .section-two {
     width: 737px;
     height: 260px;
-    margin: 93px 228px
+    margin: 155px 230px;
 }
 
 .section-two-color {
-    color: rgba(19, 19, 248, 0.976);
+    color: black;
 }
 
 .flex-container {
