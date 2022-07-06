@@ -132,14 +132,17 @@ h2 {
 }
 
 .half-width {
+
     width: 50%;
-    margin-left: 85px;
+    margin-left: 20px;
     margin-right: 11px;
     padding: 0px 11px;
+
 }
 
 .button-text {
-    width: 50%;
+    width: 184px;
+    height: 43px;
     margin-left: 47px;
     margin-right: 219px;
     padding: 0px 11px;
