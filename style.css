@@ -87,16 +87,6 @@ h2 {
     color: tomato;
 }
 
-#footer {
-
-    width: 1193px;
-    height: 10px;
-    background-color: black;
-    margin-left: 0;
-    margin-bottom: 0;
-    line-height: 0%;
-}
-
 .flex-box {
     display: flex;
     margin-left: 10%;
@@ -126,4 +116,46 @@ h2 {
     align-items: flex-start;
     box-shadow: none;
     border: none;
+}
+
+#height-width {
+
+    width: 500px;
+    height: 144px;
+    margin: 3px 348px;
+
+}
+
+.back-box {
+    border: none;
+    width: 416px;
+    height: 84px;
+    background: #FFF4D6;
+    margin-bottom: 0;
+    ;
+}
+
+.button-subscribe {
+    margin: 20px 40px;
+    border: 1px solid gray;
+    display: flex;
+    border-radius: 5px
+}
+
+#button-background {
+    background-color: tomato;
+    border: none;
+    width: 158px;
+    height: 35px;
+}
+
+#footer {
+
+    width: 1193px;
+    height: 10px;
+    background-color: black;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 87px;
+    line-height: 0%;
 }
