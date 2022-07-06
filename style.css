@@ -128,19 +128,20 @@ h2 {
 
 .flex-content {
     display: flex;
+    margin: 105px 118px;
 }
 
 .half-width {
     width: 50%;
     margin-left: 85px;
-    margin-right: 102px;
+    margin-right: 11px;
     padding: 0px 11px;
 }
 
 .button-text {
     width: 50%;
-    margin-left: 85px;
-    margin-right: 102px;
+    margin-left: 47px;
+    margin-right: 219px;
     padding: 0px 11px;
     background-color: tomato;
     padding-left: 0px;
