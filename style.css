@@ -96,3 +96,34 @@ h2 {
     margin-bottom: 0;
     line-height: 0%;
 }
+
+.flex-box {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+#Food {
+    background: rgba(79, 157, 166, 0.1);
+
+}
+
+#shelter {
+    background: rgba(255, 89, 89, 0.1);
+
+}
+
+#education {
+    background: #FFF4D6;
+}
+
+.one-third-width {
+
+    width: 31%;
+    margin: 4px 14px;
+    padding: 2%;
+    align-items: flex-start;
+    box-shadow: none;
+    border: none;
+}
