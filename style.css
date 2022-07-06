@@ -145,14 +145,8 @@ h2 {
 
 }
 
-.button-text {
-    width: 184px;
-    height: 43px;
-    margin-left: 47px;
-    margin-right: 219px;
-    padding: 0px 11px;
-    background-color: tomato;
-    padding-left: 0px;
+span {
+    background-color: red;
 }
 
 .back-box {
